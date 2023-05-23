@@ -1,6 +1,6 @@
-# Storee
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
+# Ecommerce Angular Project
+Click Here for LIVE DEMO
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://ecommerce-angular-project.web.app/home)
 
 ## Development server
 
